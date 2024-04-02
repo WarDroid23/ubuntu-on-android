@@ -92,7 +92,7 @@ For advanced usage, check [this.](https://github.com/RandomCoderOrg/fs-manager-u
 **->** `jammy:gnome`
 ![udroid gnome](assets/jammy_gnome.png)
 **->** `jammy:xfce4`
-![udroid xfce4 running glxgers & vscode](https://cdn.discordapp.com/attachments/892736843349626921/1062796366222458944/image0.jpg)
+![udroid xfce4](assets/jammy_xfce4.png)
 **->** `jammy:mate`
 ![udroid mate screenshot](assets/IMG_20211014_084106.jpg)
 
